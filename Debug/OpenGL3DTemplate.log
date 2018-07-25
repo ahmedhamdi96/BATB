@@ -1,0 +1,7 @@
+﻿  BeautyAndTheBeast.cpp
+c:\users\ahmed\documents\engineering\semester7\dmet502-computergraphics\beautyandthebeast\beautyandthebeast\beautyandthebeast.cpp(197): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ahmed\documents\engineering\semester7\dmet502-computergraphics\beautyandthebeast\beautyandthebeast\beautyandthebeast.cpp(198): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\ahmed\documents\engineering\semester7\dmet502-computergraphics\beautyandthebeast\beautyandthebeast\beautyandthebeast.cpp(1138): warning C4172: returning address of local variable or temporary: res
+BeautyAndTheBeast.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  OpenGL3DTemplate.vcxproj -> C:\Users\ahmed\Documents\Engineering\Semester7\DMET502-ComputerGraphics\BeautyAndTheBeast\BeautyAndTheBeast\Debug\BeautyAndTheBeast.exe
+  OpenGL3DTemplate.vcxproj -> C:\Users\ahmed\Documents\Engineering\Semester7\DMET502-ComputerGraphics\BeautyAndTheBeast\BeautyAndTheBeast\Debug\BeautyAndTheBeast.pdb (Full PDB)
